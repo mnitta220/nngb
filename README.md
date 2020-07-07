@@ -34,13 +34,13 @@
 <img src="img/img02.png" width="220">   
 
 - [石あり読み]  
-　<img src="img/fig30.png" width="190">   
+ <img src="img/fig30.png" width="180">   
 
 - [石なし読み]  
-　<img src="img/fig31.png" width="190">   
+ <img src="img/fig31.png" width="180">   
 
 - [脳内読み]  
-　<img src="img/fig32.png" width="190">   
+ <img src="img/fig32.png" width="180">   
 
 #### ■ 棋譜登録画面   
 <img src="img/img03.png" width="220">

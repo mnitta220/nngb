@@ -16,19 +16,19 @@
 
 ご自分で棋譜を入力したり、他の囲碁アプリで作成した棋譜ファイル（SGFファイル）を読み込むこともできます。このアプリで作成した棋譜ファイルを、他のアプリ向けに出力することもできます。  
 
-   
+---
 
 #### ■ 盤面画面(鑑賞)   
-<img src="img/img01.png" width="220">
+<img src="img/img01.png" width="220" style="border: solid 1px gray">
 
 #### ■ 盤面画面(トレーニング)   
-<img src="img/img02.png" width="220">
+<img src="img/img02.png" width="220" style="border: solid 1px gray">
 
 #### ■ 棋譜登録画面   
-<img src="img/img03.png" width="220">
+<img src="img/img03.png" width="220" style="border: solid 1px gray">
 
 #### ■ 棋譜一覧画面   
-<img src="img/img04.png" width="220">
+<img src="img/img04.png" width="220" style="border: solid 1px gray">
 
 ---
 

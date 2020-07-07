@@ -14,6 +14,31 @@
 このアプリでは、囲碁の棋譜を記憶し、それを「脳内碁盤」で再生するトレーニングを段階的に行っていきます。そのトレーニングを行うためのメソッドと、それをサポートする機能を提供します。  
 「[KataGo](https://github.com/lightvector/KataGo)」という囲碁AIによるトレーニング用の棋譜が入っています。（9路盤×2、13路盤×2、19路盤×2）  
 
-ご自分で棋譜を入力したり、他のプログラムで作成した棋譜ファイル（SGFファイル）を読み込むこともできます。このアプリで作成した棋譜ファイルを、他のプログラム向けに出力することもできます。  
+ご自分で棋譜を入力したり、他の囲碁アプリで作成した棋譜ファイル（SGFファイル）を読み込むこともできます。このアプリで作成した棋譜ファイルを、他のアプリ向けに出力することもできます。  
 
-iPhone、iPad向けはAppleストアで、Android向けはGoogle Playで、近日中にリリースする予定です。
+   
+
+#### ■ 盤面画面(鑑賞)   
+<img src="img/img01.png" width="220">
+
+#### ■ 盤面画面(トレーニング)   
+<img src="img/img02.png" width="220">
+
+#### ■ 棋譜登録画面   
+<img src="img/img03.png" width="220">
+
+#### ■ 棋譜一覧画面   
+<img src="img/img04.png" width="220">
+
+---
+
+## Appストア (iPhone、iPad向け)
+[iPhone、iPad向け紹介ページ](https://apps.apple.com/jp/app/%E8%84%B3%E5%86%85%E7%A2%81%E7%9B%A4/id1519572562)
+
+
+---
+
+## Google Play (Android向け)
+[Android向け紹介ページ](https://play.google.com/store/apps/details?id=com.nifty.jcc02505)
+
+※ Android9 以上のスマホ、タブレットでお使いいただけます。

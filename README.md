@@ -33,13 +33,13 @@
 #### ■ 盤面画面(トレーニング)   
 <img src="img/img02.png" width="220">   
 
-[石あり読み]  
+- [石あり読み]  
 　<img src="img/fig30.png" width="190">   
 
-[石なし読み]  
+- [石なし読み]  
 　<img src="img/fig31.png" width="190">   
 
-[脳内読み]  
+- [脳内読み]  
 　<img src="img/fig32.png" width="190">   
 
 #### ■ 棋譜登録画面   

@@ -28,7 +28,7 @@
 ## 画面イメージ
 
 #### ■ アイコン
-<img src="img/icon.png" width="100"> 
+<img src="img/icon.png" width="90"> 
 
 #### ■ 盤面画面(鑑賞)   
 <img src="img/img01.png" width="220">
@@ -63,3 +63,9 @@
 [Android向け紹介ページ](https://play.google.com/store/apps/details?id=com.nifty.jcc02505)
 
 ※ Android9 以上のスマホ、タブレットでお使いいただけます。
+
+---
+
+```
+近日中に、Mac向け、Windows向けをリリースします。
+```

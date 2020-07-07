@@ -14,21 +14,39 @@
 このアプリでは、囲碁の棋譜を記憶し、それを「脳内碁盤」で再生するトレーニングを段階的に行っていきます。そのトレーニングを行うためのメソッドと、それをサポートする機能を提供します。  
 「[KataGo](https://github.com/lightvector/KataGo)」という囲碁AIによるトレーニング用の棋譜が入っています。（9路盤×2、13路盤×2、19路盤×2）  
 
+トレーニングは、棋譜の総手数を細かい手数に分割し、その単位で、「石あり読み」、「石なし読み」、「脳内読み」を行います。
+- 「石あり読み」・・・線と石が表示された盤面を見ながら読む。
+- 「石なし読み」・・・線のみが表示された盤面を見ながら読む。
+- 「脳内読み」・・・目を閉じて脳内で読む。
+
+分割する手数は、1手単位から始まり、2, 4, 6, 8, ・・・と増やして行き、最大100手単位まで行います。
+
+
 ご自分で棋譜を入力したり、他の囲碁アプリで作成した棋譜ファイル（SGFファイル）を読み込むこともできます。このアプリで作成した棋譜ファイルを、他のアプリ向けに出力することもできます。  
 
 ---
+## 画面イメージ
 
 #### ■ 盤面画面(鑑賞)   
-<img src="img/img01.png" width="220" style="border: solid 1px gray">
+<img src="img/img01.png" width="220">
 
 #### ■ 盤面画面(トレーニング)   
-<img src="img/img02.png" width="220" style="border: solid 1px gray">
+<img src="img/img02.png" width="220">   
+
+- 石あり読み  
+<img src="img/fig30.png" width="220">   
+
+- 石なし読み  
+<img src="img/fig31.png" width="220">   
+
+- 脳内読み  
+<img src="img/fig32.png" width="220">   
 
 #### ■ 棋譜登録画面   
-<img src="img/img03.png" width="220" style="border: solid 1px gray">
+<img src="img/img03.png" width="220">
 
 #### ■ 棋譜一覧画面   
-<img src="img/img04.png" width="220" style="border: solid 1px gray">
+<img src="img/img04.png" width="220">
 
 ---
 

@@ -64,10 +64,4 @@
 
 ---
 
-```
-近日中に、Mac向け、Windows向けをリリースします。
-```
-
----
-
 Copyright &copy; 2020 Masahiro Nitta. All rights reserved.
